@@ -17,7 +17,7 @@ int main(int args, char *argv[])
 {
     struct stat sb;
     char *file = argv[1];
-    stat(file, &sb);
+    lstat(file, &sb);
 
     if (S_ISREG(sb.st_mode))
     {
