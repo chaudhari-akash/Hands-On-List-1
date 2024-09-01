@@ -23,3 +23,11 @@ int main(void)
 
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/28 ❯ ./28
+The max priority with SCHED_RR is : 99
+The min priority with SCHED_RR is : 1
+============================================================================
+*/

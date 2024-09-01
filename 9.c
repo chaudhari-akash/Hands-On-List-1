@@ -43,3 +43,19 @@ int main(int argc, char *argv[])
 
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/9 ❯ ./9 file1.txt
+Inode Number : 22953969
+Number of Hard Links : 1
+Uid : 1000
+Gid : 1000
+Size : 0
+Block Size : 4096
+Number of Blocks : 0
+Time Of Last Access : Sun Sep  1 10:03:49 2024
+Time Of Last Modification : Sun Sep  1 10:03:49 2024
+Time Of Last Change : Sun Sep  1 10:03:49 2024
+============================================================================
+*/

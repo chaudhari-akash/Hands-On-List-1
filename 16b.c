@@ -48,3 +48,14 @@ int main(int argv, char *argc[])
 
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/16 ❯ ./16b temp.txt
+Before Entering the critical section.
+File is now locked for Reading.
+Press Enter to Unlock.
+
+Unlocked....
+============================================================================
+*/

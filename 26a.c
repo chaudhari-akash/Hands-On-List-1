@@ -15,7 +15,7 @@ Date: 30th Aug, 2024.
 int main(void)
 {
 
-	printf("This Statement is in another File. \n");
+	printf("This Statement is in q26a.c File. \n");
 
 	return 0;
 }

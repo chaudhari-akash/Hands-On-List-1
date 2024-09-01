@@ -52,3 +52,11 @@ int main(int args, char *argc[])
 
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/11 ❯ ./11a temp.txt
+Old File Descriptor : 3
+New File Descriptor : 4
+============================================================================
+*/

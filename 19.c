@@ -32,3 +32,10 @@ int main(void)
     printf("The time taken to get pid %d is %d nanoseconds\n", pid, nano_sec);
     return 0;
 }
+
+/*
+============================================================================
+/Documents/Software System/Hands On List/Hands On List 1/19 ❯ ./19                                                                                                     11:50:01
+The time taken to get pid 14590 is 842 nanoseconds
+============================================================================
+*/

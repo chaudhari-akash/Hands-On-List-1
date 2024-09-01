@@ -94,3 +94,16 @@ int main(void)
     close(fd);
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/17 ❯ ./17
+Read Lock Set.
+Your Ticket Number is : 5
+Lock Released.
+~/Documents/Software System/Hands On List/Hands On List 1/17 ❯ ./17
+Read Lock Set.
+Your Ticket Number is : 6
+Lock Released.
+============================================================================
+*/

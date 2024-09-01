@@ -23,3 +23,22 @@ int main()
 	execle("/bin/ls", "ls", "-Rl", NULL, NULL);
 	printf("\n");
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/27 ❯ cc q27c.c -o 27c
+~/Documents/Software System/Hands On List/Hands On List 1/27 ❯ ./27c
+	Using execle()
+.:
+total 72
+-rwxrwxr-x 1 akash akash 16040 Sep  1 12:06 27a
+-rwxrwxr-x 1 akash akash 16040 Sep  1 12:07 27b
+-rwxrwxr-x 1 akash akash 16040 Sep  1 12:09 27c
+-rw-rw-r-- 1 akash akash   270 Aug 30 16:30 q27.c
+-rw-rw-r-- 1 akash akash   506 Aug 31 23:33 q27a.c
+-rw-rw-r-- 1 akash akash   508 Aug 31 23:34 q27b.c
+-rw-rw-r-- 1 akash akash   514 Aug 31 23:34 q27c.c
+-rw-rw-r-- 1 akash akash   538 Aug 31 23:34 q27d.c
+-rw-rw-r-- 1 akash akash   540 Aug 31 23:34 q27e.c
+============================================================================
+*/

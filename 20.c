@@ -28,3 +28,16 @@ int main(void)
 
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/20 ❯ ./20
+Priority of the process is : 0
+Enter the Priority : 9
+Updated Priority of the process is : 9
+~/Documents/Software System/Hands On List/Hands On List 1/20 ❯ sudo ./20
+Priority of the process is : 0
+Enter the Priority : -17
+Updated Priority of the process is : -17
+============================================================================
+*/

@@ -40,3 +40,18 @@ int main()
 
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/24 ❯ ./24 &
+[1] 15270
+Currently in Parent Process.
+Child PID : 15271
+Parent PID : 15270
+Currently in Child Process.
+Child PID : 15271
+[1]  + 15270 done       ./24
+Parent PID : 2226
+Putting child to sleep for 100s!
+============================================================================
+*/

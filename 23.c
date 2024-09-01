@@ -39,3 +39,20 @@ int main()
 
 	return 0;
 }
+
+/*
+============================================================================
+/Documents/Software System/Hands On List/Hands On List 1/23 ❯ ./23 &
+[1] 15108
+Currently in Parent Process.
+Child PID : 15110
+Parent PID : 15108
+Putting parent to sleep for 100s!
+Currently in Child Process.
+Child PID : 15110
+Parent PID : 15108
+Exiting child!
+~/Documents/Software System/Hands On List/Hands On List 1/23 ❯ top -p 15110
+ 15110 akash     25   5       0      0      0 Z   0.0   0.0   0:00.00 23
+============================================================================
+*/

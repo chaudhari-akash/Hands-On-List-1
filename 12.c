@@ -36,3 +36,13 @@ int main(int args, char *argc[])
 	}
 	return 0;
 }
+
+
+
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/12 ❯ ./12 temp.txt                                                                                          
+The Opening Mode of a File is WRITE ONLY ( O_WRONLY )
+============================================================================
+*/

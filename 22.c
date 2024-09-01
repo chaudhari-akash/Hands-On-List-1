@@ -31,3 +31,12 @@ int main(int c, char *argv[])
 
     close(fd);
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/22 ❯ ./22 temp.txt
+~/Documents/Software System/Hands On List/Hands On List 1/22 ❯ cat temp.txt
+Parent
+Child
+============================================================================
+*/

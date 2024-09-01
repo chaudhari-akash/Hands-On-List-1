@@ -47,3 +47,11 @@ int main(int args, char *argc[])
 	write(fd, "\n", 1);
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/11 ❯ ./11c temp.txt
+Old File Descriptor : 3
+New File Descriptor : 4
+============================================================================
+*/

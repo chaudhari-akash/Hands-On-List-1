@@ -19,3 +19,16 @@ int main()
 	execl("a.out", "a.out", NULL);
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/26 ❯ cc q26.c -o 26
+~/Documents/Software System/Hands On List/Hands On List 1/26 ❯ cc q26a.c
+~/Documents/Software System/Hands On List/Hands On List 1/26 ❯ ./26
+This Statement is in q26a.c another File.
+~/Documents/Software System/Hands On List/Hands On List 1/26 ❯ cc q26b.c
+~/Documents/Software System/Hands On List/Hands On List 1/26 ❯ ./26
+Enter a Number : 21
+The Entered Number is 21.
+============================================================================
+*/

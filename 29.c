@@ -54,3 +54,12 @@ int main()
 
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/29 ❯ sudo ./29
+[sudo] password for akash:
+The Policy Before modification is : SCHED_OTHER
+The Policy After modification is : SCHED_FIFO
+============================================================================
+*/

@@ -89,3 +89,17 @@ int main(void)
 
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/18 ❯ ./18a
+Enter the Record Number
+1st, 2nd, 3rd: 1
+Waiting to Access the Critical Section
+File Locking Successfull
+The current count of Record 1 is 6
+Increase count by entering 1
+1
+The current count of Record 1 is 7
+============================================================================
+*/

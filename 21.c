@@ -24,3 +24,11 @@ int main()
 	}
 	return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/21 ❯ ./21
+PID of Parent Process : 14857
+PID of Child Process : 14858
+============================================================================
+*/

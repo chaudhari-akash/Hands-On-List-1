@@ -49,3 +49,16 @@ int main(int args, char *argv[])
     }
     return 0;
 }
+
+/*
+============================================================================
+~/Documents/Software System/Hands On List/Hands On List 1/14 ❯ ls -l
+total 20
+-rwxrwxr-x 1 akash akash 16040 Aug 29 09:59 14
+-rw-rw-r-- 1 akash akash     0 Aug 29 09:50 file.txt
+-rw-rw-r-- 1 akash akash  1224 Aug 31 23:11 q14.c
+~/Documents/Software System/Hands On List/Hands On List 1/14 ❯ ./14 file.txt
+file.txt is Regular File.
+
+============================================================================
+*/
